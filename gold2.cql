@@ -1,0 +1,1 @@
+SELECT * FROM bigdata.golddf2 limit 5;

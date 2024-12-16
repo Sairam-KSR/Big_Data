@@ -1,0 +1,1 @@
+SELECT * FROM bigdata.disease_silver limit 5;
